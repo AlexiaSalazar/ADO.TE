@@ -1,3 +1,4 @@
+
 <h1 align="center">
   ADO.TE - PyStack Week 5.0
 </h1>
@@ -19,4 +20,8 @@
 ###
 
 
-
+![Uploading ver_pet.png…]()
+![Uploading ver_pedido_adocao.png…]()
+![novo_pet](https://github.com/AlexiaSalazar/ADO.TE/assets/121046408/63ac064d-c72f-43bc-bb78-c27f0822636f)
+![Uploading seus_pets.png…]()
+![Uploading cadastre-se.png…]()
